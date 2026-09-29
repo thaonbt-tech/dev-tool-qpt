@@ -52,6 +52,9 @@ Colab thường đã có sẵn các thư viện khoa học Python được noteb
 %pip install numpy scipy sympy
 ```
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thaonbt-tech/dev-tool-qpt/blob/main/QPT_MScFE_Cheatsheet.ipynb)
+
+
 ## Lưu ý khi đổi môi trường
 
 - Local, VS Code và Colab có thể dùng Python hoặc phiên bản thư viện khác nhau. Nếu gặp lỗi `ModuleNotFoundError`, hãy cài thư viện vào đúng môi trường/kernel đang chạy notebook.
